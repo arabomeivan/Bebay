@@ -1,0 +1,282 @@
+.container-fluid
+{
+    height: auto;
+
+}
+
+/*navbar css*/
+.navbar-nav
+{
+  margin-left: auto;
+  font-size: large;
+  
+}
+.nav-item
+{
+    margin-left: 40px;
+}
+.navbar-brand
+{
+    font-size: small;
+}
+
+/*first grid content css*/
+.maincontent
+{
+  margin-top: 7%;
+  height: auto;
+  font-size: x-large;
+}
+.op
+{
+    margin-top: 8%;
+    text-align: center;
+}
+.carousel-inner
+{
+    border-radius: 7px;
+}
+h2, .h2
+{
+    text-align: justify;
+    margin-top: 30%;
+}
+.fourthcontent
+{
+    margin-top: 14%;
+}
+.secondcontent
+{
+    margin-top: 3%;
+
+}
+
+.bcg
+{
+    border-radius: 7px;
+}
+.leftcontent, .rightcontent
+{
+    height: auto;
+}
+
+.lmao, .img-fluidl
+{
+    display: none;
+}
+
+p
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.thirdcontent
+{
+    margin-top: 15%;
+}
+.ceo
+   {
+       text-align: center;    
+   }
+.abtus
+{
+    margin-top: 30%;
+}
+ .fa-heart-o
+{
+    float: right;
+    margin-top: 30%;
+}
+
+.l
+{
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    font-size: 80px;
+    margin-top: 30%;
+}
+.img-fluid.pa, .img-fluid.oga
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 125px;
+}
+.fa-heart-o
+{
+   
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    float: right;
+
+}
+/*footer css*/
+
+.card
+{
+    margin-top: 10%;
+}
+h4
+{
+    color: white;
+}
+.heading
+{
+    margin-top: 1.5%;
+}
+.subscribe
+{
+    text-align: center;
+}
+.form-control 
+{
+    margin-top: 1%;
+    width: 30%;
+    height: 40px;
+    margin-left: auto; 
+    margin-right: auto; 
+    
+}
+
+
+.btn-dark
+{
+    margin-top: 1%;
+    width: 30%;
+    height: 40px;
+    margin-left: auto; 
+    margin-right: auto; 
+     
+    
+}
+
+.links
+{
+    color: black;
+
+}
+.links:hover
+{
+    color: grey;
+}
+.member
+{
+    margin-left: 15rem;
+    font-size: large;
+}
+.fa-copyright,.designed
+{
+    text-align: center;
+}
+.copyright
+{
+    margin-top: 20px;
+}
+.designed
+{
+    margin-top: 15px;
+}
+.rightt
+{
+    margin-left: 10px;
+}
+/*end of footer*/
+
+
+/*mobile screen css*/
+@media screen and (max-width: 675px)
+{
+    .secondcontent
+{
+    margin-top: 10px;
+}
+
+.rcont
+{
+    text-align: center;
+}
+.rcon
+{
+    margin-top: 3%;
+}
+
+    .thirdcontent
+    {
+        margin-top: -10px;
+    }
+    .h2
+    {
+        text-align:center;
+    }
+    h2
+    {
+        margin-top: 3px;
+    }
+   
+   .ceo
+   {
+       text-align: center;    
+   }
+
+    .maincontent
+    {
+      margin-top: 20%;
+    }
+    .navbar-brand
+    {
+        font-size: 60%;
+    }
+    .fa
+    {
+        margin-top: 10%;
+    }
+    .l
+    {
+        writing-mode: horizontal-tb;
+        text-orientation: sideways-right;
+        font-size: 80px;
+        margin-top: 10%;
+    }
+.abtus{
+    margin-top: 10px;
+}
+.img-fluid, .img-fluid.pa, .img-fluid.oga
+{
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.op
+{
+    font-size: medium;
+}
+.l
+{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20%;
+}
+.rightcontent
+{
+
+    margin-top: 10%;
+    height: auto;
+}
+.anti
+{
+    margin-top: 30%;
+    float: left;
+}
+
+/*footer button and text field*/
+.btn-dark, .form-control
+{    
+  width: 50%;
+ font-size: small;   
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+}

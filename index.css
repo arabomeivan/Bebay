@@ -1,0 +1,219 @@
+.container-fluid
+{
+    height: auto;
+
+}
+
+h6
+{
+    color: black;
+}
+.h3
+{
+    color: black;
+}
+.p
+{
+    text-align: center;
+}
+
+.lol
+{
+    text-align: center;
+}
+.content
+{
+    padding-top: 6%;
+    width: 80%;
+    margin: auto;
+    height: auto;
+}
+.img-fluid
+{
+    margin-top: 10%;
+    border-radius: 7px;
+}
+.navbar-brand
+{
+    font-size: small;
+}
+.n1
+{
+    margin-left: 50%;
+}
+p
+{
+    margin-top: 10px;
+    text-align: center;
+}
+.carousel-inner
+{
+    height: auto;
+    
+}
+.sec
+{
+    margin-top: 10%;
+}
+
+.column1, .column2, .column3
+{
+    height: auto;
+   
+}
+p
+{
+    text-align: justify;
+}
+h3
+{
+    text-align: center;
+    color: rgb(22, 49, 124);
+}
+.content2
+{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.cp
+{
+    text-align: center;
+}
+.navbar-nav
+{
+  margin-left: auto;
+  font-size: large;
+  
+}
+.nav-item
+{
+    margin-left: 40px;
+}
+
+
+/*footer css*/
+
+.card
+{
+    margin-top: 10%;
+}
+h4
+{
+    color: white;
+}
+.heading
+{
+    margin-top: 1.5%;
+}
+.subscribe
+{
+    text-align: center;
+}
+.form-control 
+{
+    margin-top: 1%;
+    width: 30%;
+    height: 40px;
+    margin-left: auto; 
+    margin-right: auto; 
+    
+}
+
+
+.btn-dark
+{
+    margin-top: 1%;
+    width: 30%;
+    height: 40px;
+    margin-left: auto; 
+    margin-right: auto; 
+     
+    
+}
+
+.links
+{
+    color: black;
+
+}
+.links:hover
+{
+    color: grey;
+}
+.member
+{
+    margin-left: 15rem;
+    font-size: large;
+}
+.fa-copyright,.designed
+{
+    text-align: center;
+}
+.copyright
+{
+    margin-top: 20px;
+}
+.designed
+{
+    margin-top: 15px;
+}
+.rightt
+{
+    margin-left: 10px;
+}
+
+
+@media screen and (max-width: 680px)
+{
+    .navbar-brand
+    {
+        font-size: 60%;
+    }
+    .ig, .tw, .sc
+{
+    padding-top: 5%;
+    
+}
+.btn-primary
+{
+    margin-top: 20%;
+    float: right;
+}
+
+.content3
+{
+    margin-top: 8%;
+}
+.companyname, .usefullinks, .con
+{
+    margin-top: 10%;
+}
+.socialist{
+    margin-top: 5%;
+}
+.aboutimage
+{
+   margin-top: 20px;
+}
+/*footer button and text field*/
+.btn-dark, .form-control
+{    
+  width: 50%;
+ font-size: small;   
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+}
+
+.services, .news, .faq
+{
+   margin-top: 7%;
+}
+.text-muted
+{
+    background-color: white;
+}
